@@ -1,16 +1,16 @@
-# _Count Up By_
+# _Word Puzzle_
 
-#### _Count Up By 01/16/2019_
+#### _word-puzzle 01/16/2019_
 
 #### By _**Theary Im and Yulia Shidlovskaya**_
 
 ## Description
 
-_This is a website for counting up numbers._
+_This is a website that uses a method to replace vowels in a string with the dash symbol "-" to creat a word puzzle to solve._
 
 ## Support and contact details
 
-_Feel free to use this code, contact epicodus_
+_Theary Im: thearyim@gmail.com_
 
 ## Technologies Used
 
